@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/verblud1/linted-group/static/css/main.54884081.css",
+    "main.js": "/verblud1/linted-group/static/js/main.3b26e239.js",
+    "static/media/grob.jpg": "/verblud1/linted-group/static/media/grob.154673b54723437bf7f9.jpg",
+    "static/media/logo.png": "/verblud1/linted-group/static/media/logo.6d2a1522e61ced3664ee.png",
+    "index.html": "/verblud1/linted-group/index.html",
+    "main.54884081.css.map": "/verblud1/linted-group/static/css/main.54884081.css.map",
+    "main.3b26e239.js.map": "/verblud1/linted-group/static/js/main.3b26e239.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54884081.css",
+    "static/js/main.3b26e239.js"
+  ]
+}
